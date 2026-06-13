@@ -4,7 +4,7 @@ We welcome contributions to PixelPlayer! Before you start, please take a moment 
 
 ## Code of Conduct
 
-This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html). By participating, you are expected to uphold this code. Please report unacceptable behavior to contribute@pixelplayer.com.
+This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html). By participating, you are expected to uphold this code. Please report unacceptable behavior to wadeesshaat@gmail.com.
 
 ## How Can I Contribute?
 
